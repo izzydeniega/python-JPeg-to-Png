@@ -43,9 +43,9 @@ This simple Python script converts JPEG images to PNG format.
 - Pillow (Python Imaging Library)
 
 ## About the Authors
-![Izzy](https://www.facebook.com/izzy.deniega.24)
+![Izzy](https://scontent.fcgy3-1.fna.fbcdn.net/v/t39.30808-6/461803950_1083722689757074_6494730492808758737_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeG8L-XYZBRITmvwxabmotJEtgnGXuEcmlC2CcZe4RyaUJ66fwP9TTbHSGlW8c6OOnDzhPJ1gX2iNWDedCT-vRGx&_nc_ohc=fMP6RhhwEpUQ7kNvgGL4wll&_nc_ht=scontent.fcgy3-1.fna&_nc_gid=AkewAnMpMJQHo6Xbeq1vojO&oh=00_AYCNyDVXdYU1jKCz36i7Vg0qRU0BJzoD0Zf8ejyt4Juctw&oe=670AD74B))
 This script was created as a simple utility for converting JPEG images to PNG format. The authors are passionate about creating useful tools for image processing and file conversion.
-[slay accla](https://scontent.fcgy3-1.fna.fbcdn.net/v/t39.30808-6/461803950_1083722689757074_6494730492808758737_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeG8L-XYZBRITmvwxabmotJEtgnGXuEcmlC2CcZe4RyaUJ66fwP9TTbHSGlW8c6OOnDzhPJ1gX2iNWDedCT-vRGx&_nc_ohc=fMP6RhhwEpUQ7kNvgGL4wll&_nc_ht=scontent.fcgy3-1.fna&_nc_gid=AkewAnMpMJQHo6Xbeq1vojO&oh=00_AYCNyDVXdYU1jKCz36i7Vg0qRU0BJzoD0Zf8ejyt4Juctw&oe=670AD74B)
+[slay accla](https://www.facebook.com/izzy.deniega.24)
 ## Disclaimer
 
 This script is for educational purposes only. While it performs a simple image conversion, users should be aware of potential limitations:
