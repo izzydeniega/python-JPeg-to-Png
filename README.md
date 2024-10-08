@@ -48,10 +48,10 @@ This script was created as a simple utility for converting JPEG images to PNG fo
 [slay accla](https://www.facebook.com/izzy.deniega.24)
 ## Disclaimer
 
-This script is for educational purposes only. While it performs a simple image conversion, users should be aware of potential limitations:
+***This script is for educational purposes only. While it performs a simple image conversion, users should be aware of potential limitations:***
 
 1. The script does not handle advanced image processing or compression options.
 2. It may not preserve all metadata from the original JPEG file.
 3. Users should ensure they have the necessary rights to convert and use the images.
 
-***The authors and contributors are not responsible for any misuse or any damages resulting from the use of this script.***
+The authors and contributors are not responsible for any misuse or any damages resulting from the use of this script.
